@@ -10,8 +10,8 @@ import org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletCon
 import org.springframework.boot.context.web.SpringBootServletInitializer;
 import org.springframework.context.annotation.Bean;
 
-import io.acuity.oauth.config.SecurityConfiguration;
 import io.acuity.oauth.config.AuthorisationServerConfiguration;
+import io.acuity.oauth.config.SecurityConfiguration;
 
 /**
  * @author Amit Verma

@@ -1,10 +1,3 @@
-/*
- * Copyright 2015, HM Revenue & Customs. All rights reserved.
- * This file and its contents are the property of HM Revenue & Customs.
- */
-/**
- * 
- */
 package io.acuity.oauth.config;
 
 import org.springframework.context.annotation.Configuration;
@@ -15,7 +8,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 import org.springframework.security.core.userdetails.UserDetailsService;
 
 /**
- * @author 7827660
+ * @author Amit Verma
  *
  */
 @Configuration
